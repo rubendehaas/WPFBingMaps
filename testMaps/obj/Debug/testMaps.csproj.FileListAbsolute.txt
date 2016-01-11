@@ -1,0 +1,16 @@
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\bin\Debug\testMaps.exe.config
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\bin\Debug\testMaps.exe
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\bin\Debug\testMaps.pdb
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.csprojResolveAssemblyReference.cache
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\MainWindow.g.cs
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\App.g.cs
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps_MarkupCompile.cache
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps_MarkupCompile.lref
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\MainWindow.baml
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.g.resources
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.Properties.Resources.resources
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.csproj.GenerateResource.Cache
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.exe
+c:\users\ruben\documents\visual studio 2015\Projects\testMaps\testMaps\obj\Debug\testMaps.pdb
